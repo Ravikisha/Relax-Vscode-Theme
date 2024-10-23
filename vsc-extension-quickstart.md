@@ -1,28 +1,75 @@
-# Welcome to your VS Code Extension
+# Relax Theme Quickstart
 
-## What's in the folder
+Welcome to the Relax Theme for Visual Studio Code! This document will guide you through the installation, usage, and customization of the Relax Theme.
 
-* This folder contains all of the files necessary for your color theme extension.
-* `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/Relax Theme-color-theme.json` - the color theme definition file.
+## Table of Contents
 
-## Get up and running straight away
+- [Relax Theme Quickstart](#relax-theme-quickstart)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Customization](#customization)
+  - [Contributing](#contributing)
+  - [License](#license)
 
-* Press `F5` to open a new window with your extension loaded.
-* Open `File > Preferences > Color Themes` and pick your color theme.
-* Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Developer: Inspect Editor Tokens and Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).
+## Installation
 
-## Make changes
+To install the Relax Theme, follow these steps:
 
-* Changes to the theme file are automatically applied to the Extension Development Host window.
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
+3. Search for "Relax Theme" in the Extensions Marketplace.
+4. Click on the **Install** button to add the theme to your VSCode setup.
 
-## Adopt your theme to Visual Studio Code
+Alternatively, you can install the theme via the command line with:
 
-* The token colorization is done based on standard TextMate themes. Colors are matched against one or more scopes.
+```bash
+code --install-extension RaviKishan.relax-theme
+```
 
-To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
+## Usage
 
-## Install your extension
+Once the Relax Theme is installed:
 
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+1. Open the Command Palette by pressing `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS).
+2. Type `Color Theme` and select **Preferences: Color Theme**.
+3. Choose **Relax Theme** from the list.
+
+Enjoy a calm and clear coding experience!
+
+## Customization
+
+You can customize the Relax Theme to suit your preferences:
+
+1. Open your settings by going to `File > Preferences > Settings` (or `Code > Preferences > Settings` on macOS).
+2. Search for `workbench.colorCustomizations`.
+3. Add your customizations in the `settings.json` file, for example:
+
+   ```json
+   "workbench.colorCustomizations": {
+     "editor.background": "#263238",
+     "editor.foreground": "#eeffff",
+     "activityBar.background": "#333333",
+     "sideBar.background": "#252526"
+   }
+   ```
+
+Feel free to experiment with different colors to make the Relax Theme truly yours!
+
+## Contributing
+
+We welcome contributions to the Relax Theme! If you'd like to report issues, suggest improvements, or contribute code, please visit our [GitHub repository](https://github.com/Ravikisha/Relax-Vscode-Theme).
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request.
+
+## License
+
+Relax Theme is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+Thank you for choosing Relax Theme for your coding experience. Happy coding!

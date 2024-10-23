@@ -16,6 +16,7 @@
   "categories": [
     "Themes"
   ],
+  "pricing": "Free",
   "keywords": [
     "vscode",
     "theme",
@@ -42,12 +43,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ravikisha/relax-theme-vscode"
+    "url": "https://github.com/Ravikisha/Relax-Vscode-Theme"
   },
   "bugs": {
-    "url": "https://github.com/ravikisha/relax-theme-vscode/issues"
+    "url": "https://github.com/Ravikisha/Relax-Vscode-Theme/issues"
   },
-  "homepage": "https://github.com/ravikisha/relax-theme-vscode",
+  "homepage": "https://github.com/Ravikisha/Relax-Vscode-Theme",
   "license": "MIT",
   "dependencies": {
     "relax-theme": "file:"
