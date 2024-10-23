@@ -1,16 +1,32 @@
-# Relax Theme Quickstart
+<div style="display:flex;flex-direction: column; justify-content: center; align-items: center;">
 
-Welcome to the Relax Theme for Visual Studio Code! This document will guide you through the installation, usage, and customization of the Relax Theme.
+<img src="https://ravikisha.github.io/assets/relaxTheme/logo.png" />
+
+<div class="title" style="font-size: 3rem; color: #007acc; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); text-align: center; margin: 20px 0; font-family: Arial, sans-serif;">
+    Relax Theme
+</div>
+<div class="subtitle" style="font-size: 1.5rem; text-align: center; margin: 10px 0; font-style: italic;">
+   Welcome to the Relax Theme for Visual Studio Code! This document will guide you through the installation, usage, and customization of the Relax Theme.
+</div>
+
+</div>
+
+
+
+## Screenshots
+![Screenshot1](https://ravikisha.github.io/assets/relaxTheme/1.jpeg)
+![Screenshot2](https://ravikisha.github.io/assets/relaxTheme/2.jpeg)
+![Screenshot3](https://ravikisha.github.io/assets/relaxTheme/3.jpeg)
 
 ## Table of Contents
 
-- [Relax Theme Quickstart](#relax-theme-quickstart)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Customization](#customization)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [Screenshots](#screenshots)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Installation
 
