@@ -2,12 +2,12 @@
 
 <img src="https://ravikisha.github.io/assets/relaxTheme/logo.png" />
 
-<div class="title" style="font-size: 3rem; color: #007acc; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); text-align: center; margin: 20px 0; font-family: Arial, sans-serif;">
+<h1 class="title" style="font-size: 3rem; color: #007acc; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); text-align: center; margin: 20px 0; font-family: Arial, sans-serif;">
     Relax Theme
-</div>
-<div class="subtitle" style="font-size: 1.5rem; text-align: center; margin: 10px 0; font-style: italic;">
+</h1>
+<h3 class="subtitle" style="font-size: 1.5rem; text-align: center; margin: 10px 0; font-style: italic;">
    Welcome to the Relax Theme for Visual Studio Code! This document will guide you through the installation, usage, and customization of the Relax Theme.
-</div>
+</h3>
 
 </div>
 
