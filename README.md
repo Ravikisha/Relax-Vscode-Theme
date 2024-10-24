@@ -1,6 +1,6 @@
 <div style="display:flex;flex-direction: column; justify-content: center; align-items: center;">
 
-<img src="https://ravikisha.github.io/assets/relaxTheme/logo.png" />
+<img src="https://ravikisha.github.io/assets/relaxTheme/BANNER.png" />
 
 <h1 class="title" style="font-size: 3rem; color: #007acc; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); text-align: center; margin: 20px 0; font-family: Arial, sans-serif;">
     Relax Theme
@@ -14,6 +14,8 @@
 
 
 ## Screenshots
+
+![MarketPlace](https://ravikisha.github.io/assets/relaxTheme/marketplace.png)
 ![Screenshot1](https://ravikisha.github.io/assets/relaxTheme/1.jpeg)
 ![Screenshot2](https://ravikisha.github.io/assets/relaxTheme/2.jpeg)
 ![Screenshot3](https://ravikisha.github.io/assets/relaxTheme/3.jpeg)

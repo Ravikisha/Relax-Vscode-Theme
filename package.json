@@ -49,5 +49,8 @@
     "url": "https://github.com/Ravikisha/Relax-Vscode-Theme/issues"
   },
   "homepage": "https://github.com/Ravikisha/Relax-Vscode-Theme",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "relax-theme": "file:"
+  }
 }
